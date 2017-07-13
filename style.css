@@ -60,7 +60,7 @@ li a:hover,dropdown-content a{
 	color: white;
 }
 
-.icon-bar{
+/*.icon-bar{
 	
 	width: 30%;
 	background-color: gray;
@@ -80,7 +80,7 @@ li a:hover,dropdown-content a{
 	text-align: center;
 	padding: 12px 0;
 	transition: all 0.3s ease;
-}
+} */
 
 .dropdown{
 	position: relative;
@@ -90,8 +90,6 @@ li a:hover,dropdown-content a{
 .dropdown-content{
 	display: none;
 	position: absolute;
-	left: 300px;
-	top: 0px;
 	background-color: #f9f9f9;
     min-width: 160px;
     border: 1px solid white;
