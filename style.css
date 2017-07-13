@@ -3,8 +3,11 @@
 	padding: 0; 
 }
 
-body{
+html{
 	height: 100%;
+}
+body{
+	min-height: 100%;
 }
 
 div.container{
@@ -22,14 +25,14 @@ div.container{
 
 header{
 	
-	padding: 10px;
+	padding: 25px;
 	background-color: #3b5998;
 	color: white;
 	text-align: center;
 }
 
 footer{
-	padding: 0.5px;
+	padding: 15px;
 	background-color: #3b5998;
 	color: white;
 	text-align: center;
@@ -104,7 +107,9 @@ li a:hover,dropdown-content a{
 	background-color: LightGray;
 }
 
-p{height: 310px;}
+p{
+	height: 300px;
+}
 
 
 
