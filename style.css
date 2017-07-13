@@ -32,7 +32,8 @@ header{
 }
 
 footer{
-	padding-bottom: 25px;
+	padding-top: 5px;
+	padding-bottom: 40px;
 	background-color: #3b5998;
 	color: white;
 	text-align: center;
@@ -46,11 +47,17 @@ ul{
 
 li a,.dropdown-content a{
 	color: black;
-	font-size: 30px;
+	font-size: 40px;
+	font-style: italic;
+	text-align: center;
 	display: block;
 	background-color:#f1f1f1;
 	text-decoration: none;
 	transition: all 0.3s ease
+}
+
+.dropdown-content a{
+	font-size: 30px;
 }
 
 li a:hover,dropdown-content a{
