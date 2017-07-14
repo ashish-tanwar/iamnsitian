@@ -41,7 +41,7 @@ footer{
 
 ul{
 	list-style-type: none;
-	width: 300px;
+	width: 350px;
 	border: 1px solid white;
 }
 
@@ -116,7 +116,7 @@ li a:hover,dropdown-content a{
 }
 
 p{
-	height: 240px;
+	height: 220px;
 }
 
 
