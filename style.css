@@ -5,7 +5,9 @@
 
 html{
 	height: 100%;
-	width: 100%;
+}
+body{
+	min-height: 100%;
 }
 
 div.container{
@@ -22,7 +24,7 @@ div.container{
 }
 
 header{
-	width: 100%;
+	
 	padding: 25px;
 	background-color: #3b5998;
 	color: white;
@@ -30,7 +32,6 @@ header{
 }
 
 footer{
-	width: 100%;
 	padding-top: 5px;
 	padding-bottom: 40px;
 	background-color: #3b5998;
@@ -115,7 +116,7 @@ li a:hover,dropdown-content a{
 }
 
 p{
-	height: 220px;
+	height: 250px;
 }
 
 
