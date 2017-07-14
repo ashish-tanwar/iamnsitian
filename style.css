@@ -20,7 +20,7 @@ div.container{
 	margin: auto;
     border: 3px solid white;
     padding: 10px;
-	
+	text-align: center;
 }
 
 header{
@@ -51,13 +51,11 @@ li a,.dropdown-content a{
 	font-style: italic;
 	display: block;
 	background-color:#f1f1f1;
+	text-align: center;
 	text-decoration: none;
 	transition: all 0.3s ease
 }
 
-li a{
-	text-align: center;
-}
 
 .dropdown-content a{
 	font-size: 30px;
